@@ -1,0 +1,2 @@
+Person 1 left after 9.14 seconds at 1753813784.62. Saved as person_1_20250729-235944.jpg
+Person 2 left after 0.24 seconds at 1753813784.97. Saved as person_2_20250729-235945.jpg
